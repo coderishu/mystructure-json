@@ -1,0 +1,1 @@
+# mystructure-json
