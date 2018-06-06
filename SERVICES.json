@@ -1,0 +1,68 @@
+[
+  {
+  "menuId":"1",
+  "menuName":"Services",
+  "routerLink":"",
+  "innerCategory":[
+  { 
+   "inner_menu_Id":"1",
+   "menuName":"Mobile Strategy Consulting",
+   "routerLink":"mobile-apps-strategy-consulting"
+  },
+  {
+     "inner_menu_id":"2",
+     "menuName":"UI/UX Design",
+     "routerLink":"mobile-apps-ui-ux-design-services"
+  },
+  {
+     "inner_menu_id":"3",
+     "menuName":"Mobile Apps Development",
+     "routerLink":"mobile-apps-development-services",
+     "inner_to_inner":[
+     {
+     "menuId":"1",
+     "menuName":"iOs Development",
+     "routerLink":"ios-iphone-apps-development-services"
+     },
+      {
+     "menuId":"2",
+     "menuName":"Android App Development",
+     "routerLink":"android-apps-development-services"
+     },
+      {
+     "menuId":"3",
+     "menuName":"Hybrid App Development",
+     "routerLink":"hybrid-apps-development-services"
+     },
+      {
+     "menuId":"4",
+     "menuName":"Games App Development",
+     "routerLink":"mobile-game-apps-development-services"
+     }
+     ]
+  },
+  { "inner_menu_Id":"4",
+     "menuName":"WebAppsDevelopment",
+     "routerLink":"responsive-web-apps-development-services"
+     },
+     
+      { "inner_menu_Id":"5",
+     "menuName":"iOTDevelopment",
+     "routerLink":"iot-apps-development-services"
+     },
+      { "inner_menu_Id":"6",
+     "menuName":"Wearable Apps Development",
+     "routerLink":"wearable-apps-development-services"
+     },
+      { "inner_menu_Id":"7",
+     "menuName":"AR & VR Department",
+     "routerLink":"ar-vr-apps-development-services"
+     },
+     
+      { "inner_menu_Id":"8",
+     "menuName":"Dedicated Staffing",
+     "routerLink":"hire-dedicated-mobile-app-developers"
+     }
+  ]
+   }
+]
